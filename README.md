@@ -107,3 +107,8 @@ El tiempo total de ejecución de los tres algorítmos ha sido de 0.025 s.
 | slow_sieve    | 0.014         |
 | medium_sieve  | 0.008         |
 | fast_sieve    | 0.002         |
+
+# Conclusión
+El algoritmo que utiliza la función fast_sieve es el más eficiente de los tres. El menos eficiente es el algoritmo que utiliza la función slow_sieve.
+
+Tambien observamos que el coste computacional de estos algoritmos es exponencial. Observamos que con la primera carga de trabajo el tiempo se dispara.
