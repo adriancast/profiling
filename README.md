@@ -5,6 +5,12 @@
  El estudio consiste en comparar el tiempo que tardan en ejecutarse los diferentes algoritmos con la misma carga de trabajo.
  
 # Ejecutar la prueba de profiling
+Antes de ejecutar la prueba recuerda cambiar el límite de la búsqueda de los números primos. Para hacerlo cambia la siguiente constante:
+```
+PRIME_NUMBERS = XXXXX
+```
+A continuación ejecuta la prueba con el siguiente comando:
+
 ```
 python -m cProfile main.py
 ```
