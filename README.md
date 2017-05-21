@@ -38,7 +38,7 @@ python -m cProfile main.py
 ```
 El tiempo total de ejecución de los tres algorítmos ha sido de 50.661 s.
 
-| Algorimo      | Tiempo [s]    |
+| Algoritmo      | Tiempo [s]    |
 |:-------------:|:-------------:|
 | slow_sieve    | 22.516        |
 | medium_sieve  | 20.695        |
@@ -70,7 +70,7 @@ El tiempo total de ejecución de los tres algorítmos ha sido de 50.661 s.
 
 El tiempo total de ejecución de los tres algorítmos ha sido de 3.142 s.
 
-| Algorimo      | Tiempo [s]    |
+| Algoritmo      | Tiempo [s]    |
 |:-------------:|:-------------:|
 | slow_sieve    | 1.400         |
 | medium_sieve  | 1.243         |
@@ -102,7 +102,7 @@ El tiempo total de ejecución de los tres algorítmos ha sido de 3.142 s.
 
 El tiempo total de ejecución de los tres algorítmos ha sido de 0.025 s.
 
-| Algorimo      | Tiempo [s]    |
+| Algoritmo      | Tiempo [s]    |
 |:-------------:|:-------------:|
 | slow_sieve    | 0.014         |
 | medium_sieve  | 0.008         |
